@@ -1,4 +1,3 @@
-	*.out
-	*.vim
-	raylib/
-
+raylib/
+bin/
+*.vim
